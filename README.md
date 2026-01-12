@@ -20,11 +20,9 @@
 
 ## Screenshots Tampilan
 | Login | Register | Home | Add |
-|---|---|---|
 | ![Login](login.jpeg) | ![Register](register.jpeg) | ![Home](home.jpeg) | ![Add](add_thread.jpg) |
 
 | Create | Edit/Update | Profil | Notifikasi |
-|---|---|---|
 | ![Edit](create_thread.jpeg) | ![Edit/Update](update_edit_thread.jpeg) |![Profil](profil.jpeg) | ![Notifikasi](notifikasi.jpeg) |
 
 ## Cara Menjalankan Aplikasi
