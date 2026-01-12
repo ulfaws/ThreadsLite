@@ -18,16 +18,14 @@
 - [x] Detail Data (Melihat detail thread)
 - [x] Notifikasi (Pemberitahuan notifikasi thread)
 
-## Screenshots (Minimal 6)
-| Login | List | Add |
+## Screenshots Tampilan
+| Login | Register | Home | Add |
 |---|---|---|
-| ![Login](login.jpg) | ![List](list.jpg) | ![Add](add.jpg) |
+| ![Login](login.jpeg) | ![Register](register.jpeg) | ![Home](home.jpeg) | ![Add](add_thread.jpg) |
 
-| Edit | Detail | Notifikasi |
+| Create | Edit/Update | Profil | Notifikasi |
 |---|---|---|
-| ![Edit](edit.jpg) | ![Detail](detail.jpg) | ![Notifikasi](notif.jpg) |
-
-> **Catatan:** Pastikan file gambar (seperti login.jpg, dll) sudah diunggah ke repositori ini.
+| ![Edit](create_thread.jpeg) | ![Edit/Update](update_edit_thread.jpeg) |![Profil](profil.jpeg) | ![Notifikasi](notifikasi.jpeg) |
 
 ## Cara Menjalankan Aplikasi
 1. Clone repository ini melalui terminal: `git clone https://github.com/ulfaws/ThreadsLite.git`
