@@ -12,18 +12,20 @@
 
 ## Fitur Aplikasi (Ceklist)
 - [x] Login
-- [x] List Data (Menampilkan postingan/thread)
-- [x] Add Data (Membuat postingan baru)
-- [x] Edit Data (Mengubah postingan)
-- [x] Detail Data (Melihat detail thread)
+- [x] Register
+- [x] Home/List data (Menampilkan postingan/thread)
+- [x] Add Data (Membuat postingan thread baru)
+- [x] Create (Membuat Postingan thread baru)
+- [x] Edit/Update (Edit/Update thread)
+- [x] Profil (Menampilkan profil)
 - [x] Notifikasi (Pemberitahuan notifikasi thread)
 
 ## Screenshots Tampilan
-| Login | Register | Home | Add |
+| Login | Register | Home/List data | Add |
 | ![Login](login.jpeg) | ![Register](register.jpeg) | ![Home](home.jpeg) | ![Add](add_thread.jpg) |
 
 | Create | Edit/Update | Profil | Notifikasi |
-| ![Edit](create_thread.jpeg) | ![Edit/Update](update_edit_thread.jpeg) |![Profil](profil.jpeg) | ![Notifikasi](notifikasi.jpeg) |
+| ![Create](create_thread.jpeg) | ![Edit/Update](update_edit_thread.jpeg) |![Profil](profil.jpeg) | ![Notifikasi](notifikasi.jpeg) |
 
 ## Cara Menjalankan Aplikasi
 1. Clone repository ini melalui terminal: `git clone https://github.com/ulfaws/ThreadsLite.git`
