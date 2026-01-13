@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvRegister" type="id" />
+    <item name="listViewThreads" type="id" />
+    <item name="fragmentContainer" type="id" />
+    <item name="bottomMenu" type="id" />
+    <item name="tvEmail" type="id" />
+    <item name="btnLogout" type="id" />
+    <item name="tvHeader" type="id" />
+</resources>

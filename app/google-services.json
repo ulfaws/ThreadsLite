@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "957993980216",
+    "firebase_url": "https://threadslite-66216-default-rtdb.firebaseio.com",
+    "project_id": "threadslite-66216",
+    "storage_bucket": "threadslite-66216.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957993980216:android:0904e5346e2a3c2f8cb1cd",
+        "android_client_info": {
+          "package_name": "com.example.threadslite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957993980216-4bloqd0sm37tre674mm5bsgc0rdiu56n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.threadslite",
+            "certificate_hash": "b621ad5af8f444015dfe9bc9bdd6f1e28f08e2aa"
+          }
+        },
+        {
+          "client_id": "957993980216-95f39pu1550vrichd8mtooulsc5vqgp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB96l38QZE7RT0Vf-Src1PMkjMfJGauNWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957993980216-95f39pu1550vrichd8mtooulsc5vqgp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

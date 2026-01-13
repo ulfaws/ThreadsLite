@@ -1,0 +1,23 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">Threads Lite</string>
+
+    <!-- Auth -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="daftar_akun">Daftar Akun</string>
+
+    <!-- Thread -->
+    <string name="tambah_thread">Tambah Thread</string>
+    <string name="tulis_thread">Tulis thread...</string>
+    <string name="simpan">Simpan</string>
+
+    <!-- Notification -->
+    <string name="notif_title">Threads Lite</string>
+    <string name="notif_add_success">Thread berhasil ditambahkan</string>
+    <string name="default_web_client_id">\n\n</string>
+
+</resources>

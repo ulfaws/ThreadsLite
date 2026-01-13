@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/black_bg"
+    android:gravity="center_horizontal"
+    android:padding="24dp"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Avatar -->
+    <ImageView
+        android:src="@drawable/ic_avatar"
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:layout_marginBottom="16dp"
+        app:tint="@color/white" />
+
+    <!-- Email -->
+    <TextView
+        android:id="@+id/tvEmail"
+        android:text="user@email.com"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:layout_marginBottom="24dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <!-- Logout -->
+    <Button
+        android:id="@+id/btnLogout"
+        android:text="Logout"
+        android:drawableStart="@drawable/ic_logout"
+        android:textColor="@color/black_bg"
+        android:backgroundTint="@color/white"
+        android:padding="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
